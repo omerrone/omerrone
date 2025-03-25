@@ -12,5 +12,5 @@
 
 
 ## How to reach me? ☎️
-[<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">](https://www.linkedin.com/in/omerrlevi/)
-[<img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">](mailto:omerlevi0@gmail.com)
+[<img src="https://img.icons8.com/fluency/48/linkedin.png">](https://www.linkedin.com/in/omerrlevi/)
+[<img src="https://img.icons8.com/color/48/gmail-new.png">](mailto:omerlevi0@gmail.com)
